@@ -3,7 +3,7 @@
 - 🔭 🖥️ Trabalhando atualmente com suporte e desenvolvimento. `Laravel` `PHP` `MySQL` `SQL`
 - 🌱 📖 Estudando `React.JS` `TypeScript`.
 - 🧙‍♂️Keep Moving / Always Learning.
-- 😄 Pronouns: he/his
+- 😄 
 
 <div>
   <a href="https://github.com/tfabriciob">
