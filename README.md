@@ -1,6 +1,6 @@
 ### Hi Guys, sou o Fabricio!!! 👋
 
-- 🔭 🖥️ Trabalhando atualmente com suporte e desenvolvimento. `Laravel` `PHP` `MySQL` `SQL`
+- 🔭 🖥️ Atualmente como suporte e desenvolvimento. `Laravel` `PHP` `MySQL` `SQL`
 - 🌱 📖 Estudando `React.JS` `TypeScript`.
 - 🧙‍♂️Keep Moving / Always Learning.
 - 😄 
